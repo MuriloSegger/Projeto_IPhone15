@@ -1,3 +1,6 @@
+
+![print1](https://github.com/MuriloSegger/Projeto_IPhone15/assets/140568760/ad3d3e3e-facc-43c5-8177-ff7faab8ff3b)
+
 <h1>Ladding Page IPhone 15</h1>
 <p>Este projeto foi criado por mim, com o intuito de aplicar meus conhecimentos em HTML e CSS</p>
 <h2><strong>Status do Projeto</strong></h2>
